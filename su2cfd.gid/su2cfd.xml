@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- -*- coding: utf-8;-*- -->
+<Infoproblemtype version="1.0">
+  <Program>
+    <Name>SU2 CFD</Name>
+    <Version>0.1</Version>   
+    <MinimumGiDVersion>13.0.0</MinimumGiDVersion>
+    <EnableDeprecated>0</EnableDeprecated>
+    <CustomLibAutomatic>1</CustomLibAutomatic>
+    <CustomLibNativeGroups>1</CustomLibNativeGroups>
+    <ImageFileBrowser>images/ico.png</ImageFileBrowser>
+    <ShortDescription>SU2 v6.1.0 Falcon. Powerful. Fast. Free.</ShortDescription>
+    <Description>
+    The SU2 suite is an open-source collection of C++ based software tools for performing Partial Differential Equation (PDE) analysis and solving PDE-constrained optimization problems. The toolset is designed with Computational Fluid Dynamics (CFD) and aerodynamic shape optimization in mind, but is extensible to treat arbitrary sets of governing equations such as potential flow, elasticity, electrodynamics, chemically-reacting flows, and many others. SU2 is under active development by individuals all around the world on GitHub and is released under an open-source license.
+    </Description>
+  </Program>
+</Infoproblemtype>
